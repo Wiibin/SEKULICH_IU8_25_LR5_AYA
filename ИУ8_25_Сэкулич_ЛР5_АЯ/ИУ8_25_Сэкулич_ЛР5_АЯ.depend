@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1742138988 source:c:\users\user\documents\мгту им баумана\2024-2025\алгоритмические языки\codeblocksprojects\иу8_25_сэкулич_лр5_ая\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<set>
+	<unordered_set>
+	<deque>
+	<algorithm>
+
