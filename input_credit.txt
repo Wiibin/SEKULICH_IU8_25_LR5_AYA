@@ -1,0 +1,4 @@
+3
+Ivan 15000000 RF_rouble 13
+Alexandr 2700000 RF_rouble 12.2
+James 15000 US_dollar 15.8
